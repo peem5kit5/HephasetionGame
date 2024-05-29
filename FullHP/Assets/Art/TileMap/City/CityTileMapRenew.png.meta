@@ -1,0 +1,2009 @@
+fileFormatVersion: 2
+guid: c059ee163c27ab44c8144e50428e5839
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CityTileMapRenew_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1777032ff8485014a8c5fe5a826ddbed
+      internalID: 1211933352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc595242dc194fa4792bd552b5ee774d
+      internalID: 1404451826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781812b728c65694c96ba9ebb852e202
+      internalID: -640743602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9ae1219fe621f4f9553f9044c002a1
+      internalID: -617073015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_18
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67125f0ec7d0369438d701199f452bba
+      internalID: -464178116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_19
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35e0cf3ae4f0e84186b8aa896528b2b
+      internalID: 1285464377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_20
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8652fd1f8cb6479df8321093c5cb2
+      internalID: 1957414469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_21
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd026815c6c284cbc4f5bbaa963129
+      internalID: 1326045859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_22
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b94c28492264b40adf692202bec5ae
+      internalID: -1956575004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_23
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb29f8ae5341f547be82108076d2973
+      internalID: 355667378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_24
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c889af04a9d5254c8326550ecfafae1
+      internalID: -1716547944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_25
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ced0329a74f59745ada07c18a2027e8
+      internalID: 166483295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_26
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec105956f04b6964a9c274a48860e37a
+      internalID: 2083115579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_27
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c9c801572cb743a04345ca10f23dd
+      internalID: -1485019308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_28
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cfe9ee5908bb142abe2d34dec5415f
+      internalID: 2078689363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_29
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d28b221aa62a4c9515f08f3bac2c1
+      internalID: -1685205620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_30
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72480da194f472540a8812cc74d6dcca
+      internalID: -153631643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_31
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60202eae39f41d6449a013f760d43c11
+      internalID: 1659072719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_32
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db779e091816efe44a6a716c116b6a3b
+      internalID: 531543933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_33
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901a8a04aed6014d9310f751e5c0825
+      internalID: 1663825627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_34
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 813
+        width: 172
+        height: 276
+      alignment: 9
+      pivot: {x: 0.52907544, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8e28fc468208546866f99920c622dc
+      internalID: 1572692867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_35
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf243defedc40d44890942f9c415edd
+      internalID: 1880977985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_36
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 813
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ecd1c018d840f44a9562e38c138cb1
+      internalID: -401498587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966270b6ceffb1e47ac319939234915c
+      internalID: 872023283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_38
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66a65ff11e5814f9c1a866f0d03163
+      internalID: 1970333856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_39
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf4db7706509704ab20db04eb01b4ca
+      internalID: 123723097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_40
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd41f90971f15ff42afcc357e69677ff
+      internalID: -830190932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_41
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849bf60070ee53245a2cb72351c0f11e
+      internalID: 46863899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_42
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256fd81b47fd13645880259314775dc8
+      internalID: -609797722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_43
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06173a6d4fb52949ae8e7cdc8367856
+      internalID: -503696549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_44
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c6b3a4ecb8efd429202898088ccf37
+      internalID: -1424527983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_45
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cc72b65074a464d88fbbff960cd6ad
+      internalID: -776737164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_46
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d7c3f9dcabf024da60a00e9a7357d4
+      internalID: -1299389996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_47
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d79f4695f37894eba3db5b98d56018
+      internalID: -1840753464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_48
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f795888d8f5f449198b85441eabc6
+      internalID: -2141279026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_49
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3218fb068eb184eb0966fec120959f
+      internalID: -63142306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_50
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6738a702085435e4faf1fd17c5f4c032
+      internalID: -1298594583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_51
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ce286c8e311684bb6561bd7bdf058e
+      internalID: 1383968755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_52
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8df81ba5030c34f910107399b09c74
+      internalID: -584724839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_53
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ad1682a284f8440b57ceea620680f7
+      internalID: 2006687359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_54
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30e434e117278347b916ac8c4f3226b
+      internalID: -2031106944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_55
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861783754dc0b14fbcd2ff136ccf898
+      internalID: 1381174660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_56
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3d424d653b1dc43b81d834e42d121a
+      internalID: 1887106338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_57
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6277dd1ce5440c44bb8bd082e46ea897
+      internalID: -305810687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_58
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d279989759fb3b44aa4138fa2ab3d760
+      internalID: 520712684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_59
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 509
+        width: 172
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc06c9fab16ba40bfa66c3e4f2dc01
+      internalID: 1023804262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 301
+        width: 108
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b2e93eae2b59b44a8792906ccfa28b
+      internalID: -1655844515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_108
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 301
+        width: 108
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd887c4e9b5bee4b9ac49f93c6564fd
+      internalID: -2145029516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_109
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 301
+        width: 108
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d87b04fae120c46adf7d4c04ab52c2
+      internalID: 1965496473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_110
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 301
+        width: 108
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbeccb665471254b9802eff9dd25896
+      internalID: 185056494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_111
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 301
+        width: 108
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04fe7e9a57395458d3b6409af2a32a
+      internalID: 1716467494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_112
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 301
+        width: 108
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45512484a3af5ca4e82a2c1da88504c7
+      internalID: -745832126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_113
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 301
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e92c78e8908584287473f1dc876869
+      internalID: -611643320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_114
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497fc167b5eb6b4886d63043ba0b9a8
+      internalID: 1275356652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_115
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6457416df8f65640b5640b9c41ebda8
+      internalID: -43162146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_119
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 365
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d714eb74d658b40800cafa6138ecde
+      internalID: -1668802608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_120
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 365
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26afe5f62f7f9d14eb484b17429a9230
+      internalID: 272867578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_121
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 365
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65c38e97749ca4cb939ea8ea4f04f2
+      internalID: -1147521648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_122
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 373
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48527079fb3009c4ab3efbea8a34fbee
+      internalID: -1029206247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_123
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 333
+        width: 152
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ff20168f92c1418103f3ee7454404
+      internalID: -1600297261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_124
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 351
+        width: 152
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ce1afb5ee5e544bb9f9120de2b5e8
+      internalID: 2058942132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_125
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 296
+        width: 22
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b36d8b04595a4387d44213b6c21d8
+      internalID: -31808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_126
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 296
+        width: 22
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3037d999f57031c4ab5a843ce3fa095a
+      internalID: -454818172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_127
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 301
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9c77fc73d41814abfdbebc5fec4d58
+      internalID: -361544320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_128
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 301
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263216d74c6e3414c83e4cf1a976ccb2
+      internalID: -1570258632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_129
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 301
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4811a2d50865dbb4d84552f224461c57
+      internalID: 1908575959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_130
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 301
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9ad26b5d3baf4abe33be8dec39f23
+      internalID: -831932969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_0
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba884abf73789ba419327380e8f1320e
+      internalID: 320870811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_1
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b1047d6e82c3045a0201b5f4e0d1d9
+      internalID: -461937480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca33a6bdafd16614ebbc0955073211aa
+      internalID: 2072232448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_3
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff751e5e3974940966d7e79f548bfb
+      internalID: 1237242407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e3bcecabc7544a9631ce0ea4c6f35
+      internalID: -83613959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6f688bf20f8c4aaa9e1e698b765b2
+      internalID: 1737953089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_6
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d347573e404f04b9f63a03f105a5dd
+      internalID: -2061729177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4537a8cf704d4a7469b275c2f5ea8376
+      internalID: -1065287582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_8
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1210e1de55827e48bc45addb4e1e962
+      internalID: 1772758266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc05b82a0368a844a85a96b69ddd6fa
+      internalID: 355888326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_10
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e688671083da34942a14887cc2e76f39
+      internalID: 1439350472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_11
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7dc548f33a4434cbd28150dd671d8a
+      internalID: 1077226755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c647aea026a9e84eae6c8f82ad6a351
+      internalID: 553238873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_13
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861a643126c484240b18f086662b949f
+      internalID: 1239893516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_60
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ea301acb85b4b4685737372759bd67
+      internalID: 117828192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityTileMapRenew_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1677c8de34ab55042872ddaf83565652
+      internalID: -378064644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CityTileMapRenew_18: -464178116
+      CityTileMapRenew_130: -831932969
+      CityTileMapRenew_116: -1249590491
+      CityTileMapRenew_48: -2141279026
+      CityTileMapRenew_38: 1970333856
+      CityTileMapRenew_54: -2031106944
+      CityTileMapRenew_43: -503696549
+      CityTileMapRenew_86: 1453829589
+      CityTileMapRenew_63: -1197258493
+      CityTileMapRenew_90: 2100809278
+      CityTileMapRenew_56: 1887106338
+      CityTileMapRenew_16: -640743602
+      CityTileMapRenew_35: 1880977985
+      CityTileMapRenew_40: -830190932
+      CityTileMapRenew_17: -617073015
+      CityTileMapRenew_104: 89094039
+      CityTileMapRenew_15: 1404451826
+      CityTileMapRenew_128: -1570258632
+      CityTileMapRenew_29: -1685205620
+      CityTileMapRenew_73: -74281131
+      CityTileMapRenew_118: 129960329
+      CityTileMapRenew_92: 1984986473
+      CityTileMapRenew_22: -1956575004
+      CityTileMapRenew_98: 2049904436
+      CityTileMapRenew_109: 1965496473
+      CityTileMapRenew_32: 531543933
+      CityTileMapRenew_65: 2023507490
+      CityTileMapRenew_58: 520712684
+      CityTileMapRenew_80: -211450517
+      CityTileMapRenew_39: 123723097
+      CityTileMapRenew_51: 1383968755
+      CityTileMapRenew_101: 1908796309
+      CityTileMapRenew_89: -765815913
+      CityTileMapRenew_60: 117828192
+      CityTileMapRenew_110: 185056494
+      CityTileMapRenew_4: -83613959
+      CityTileMapRenew_47: -1840753464
+      CityTileMapRenew_49: -63142306
+      CityTileMapRenew_8: 1772758266
+      CityTileMapRenew_34: 1572692867
+      CityTileMapRenew_117: 957769375
+      CityTileMapRenew_120: 272867578
+      CityTileMapRenew_28: 2078689363
+      CityTileMapRenew_25: 166483295
+      CityTileMapRenew_11: 1077226755
+      CityTileMapRenew_113: -611643320
+      CityTileMapRenew_31: 1659072719
+      CityTileMapRenew_87: 224467927
+      CityTileMapRenew_72: -738540220
+      CityTileMapRenew_24: -1716547944
+      CityTileMapRenew_27: -1485019308
+      CityTileMapRenew_129: 1908575959
+      CityTileMapRenew_3: 1237242407
+      CityTileMapRenew_33: 1663825627
+      CityTileMapRenew_75: 1233667149
+      CityTileMapRenew_64: 2024702121
+      CityTileMapRenew_79: -1499119772
+      CityTileMapRenew_74: 633265985
+      CityTileMapRenew_81: 624661725
+      CityTileMapRenew_93: 1019072979
+      CityTileMapRenew_106: 2041130671
+      CityTileMapRenew_123: -1600297261
+      CityTileMapRenew_108: -2145029516
+      CityTileMapRenew_50: -1298594583
+      CityTileMapRenew_124: 2058942132
+      CityTileMapRenew_57: -305810687
+      CityTileMapRenew_99: -2092935797
+      CityTileMapRenew_30: -153631643
+      CityTileMapRenew_85: 2083069176
+      CityTileMapRenew_94: -1754977012
+      CityTileMapRenew_26: 2083115579
+      CityTileMapRenew_41: 46863899
+      CityTileMapRenew_55: 1381174660
+      CityTileMapRenew_91: 1823230971
+      CityTileMapRenew_66: 333789480
+      CityTileMapRenew_0: 320870811
+      CityTileMapRenew_42: -609797722
+      CityTileMapRenew_83: 1288915045
+      CityTileMapRenew_46: -1299389996
+      CityTileMapRenew_61: -378064644
+      CityTileMapRenew_111: 1716467494
+      CityTileMapRenew_77: -1453667629
+      CityTileMapRenew_100: -1505567270
+      CityTileMapRenew_95: -1613644181
+      CityTileMapRenew_19: 1285464377
+      CityTileMapRenew_82: 1174237803
+      CityTileMapRenew_102: 1890904900
+      CityTileMapRenew_36: -401498587
+      CityTileMapRenew_69: 588738933
+      CityTileMapRenew_7: -1065287582
+      CityTileMapRenew_114: 1275356652
+      CityTileMapRenew_97: -1374131503
+      CityTileMapRenew_119: -1668802608
+      CityTileMapRenew_2: 2072232448
+      CityTileMapRenew_45: -776737164
+      CityTileMapRenew_76: -469484676
+      CityTileMapRenew_127: -361544320
+      CityTileMapRenew_68: 604737945
+      CityTileMapRenew_88: -1004000535
+      CityTileMapRenew_122: -1029206247
+      CityTileMapRenew_37: 872023283
+      CityTileMapRenew_121: -1147521648
+      CityTileMapRenew_71: -1870744964
+      CityTileMapRenew_10: 1439350472
+      CityTileMapRenew_20: 1957414469
+      CityTileMapRenew_78: -164215058
+      CityTileMapRenew_125: -31808
+      CityTileMapRenew_84: -1702115083
+      CityTileMapRenew_105: -452877480
+      CityTileMapRenew_96: 187572538
+      CityTileMapRenew_9: 355888326
+      CityTileMapRenew_52: -584724839
+      CityTileMapRenew_5: 1737953089
+      CityTileMapRenew_62: -433309504
+      CityTileMapRenew_1: -461937480
+      CityTileMapRenew_14: 1211933352
+      CityTileMapRenew_103: -1768295032
+      CityTileMapRenew_115: -43162146
+      CityTileMapRenew_59: 1023804262
+      CityTileMapRenew_107: -1655844515
+      CityTileMapRenew_126: -454818172
+      CityTileMapRenew_6: -2061729177
+      CityTileMapRenew_70: 541482239
+      CityTileMapRenew_13: 1239893516
+      CityTileMapRenew_21: 1326045859
+      CityTileMapRenew_44: -1424527983
+      CityTileMapRenew_67: -173174482
+      CityTileMapRenew_12: 553238873
+      CityTileMapRenew_112: -745832126
+      CityTileMapRenew_23: 355667378
+      CityTileMapRenew_53: 2006687359
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

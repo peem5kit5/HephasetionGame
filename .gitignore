@@ -77,3 +77,8 @@ FullHP/Library/
 FullHP/Temp/
 *.log
 *.json
+*.wav
+*.mp4
+*.unity
+FullHP/UserSettings/
+FullHP/Assets/CodeMonkey/

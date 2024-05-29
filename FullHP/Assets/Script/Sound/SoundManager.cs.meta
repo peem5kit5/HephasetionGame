@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 26f035ae4c101404c909a3089388eac4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletHitSound: {fileID: 8300000, guid: 8f26be56378d31d4aab7d59cf247a58e, type: 3}
+  - EnemyDeathSound: {fileID: 8300000, guid: 5d325808fd214a14980b2152927aaf18, type: 3}
+  - bulletHitEnemy: {fileID: 8300000, guid: f92297e47c744ce4fb89b9e52bb0743b, type: 3}
+  - critSoundHitEnemy: {fileID: 8300000, guid: 5d325808fd214a14980b2152927aaf18, type: 3}
+  - SwordHitSound: {fileID: 8300000, guid: 7ac432d46f8c2ee4bb6c228178abe085, type: 3}
+  - SwordSwipeSound: {fileID: 8300000, guid: 4e1e56ab6dcf7dd49a556a92781b9e1a, type: 3}
+  - BackStab: {fileID: 8300000, guid: 114d071d81ae23040be1eec9c7b2e510, type: 3}
+  - CamoflageSound: {fileID: 8300000, guid: 2c014144b66ed204b8a8614069d59375, type: 3}
+  - MolotovSound: {fileID: 8300000, guid: ae49b481d1d22ca49a12ea2b3542ef6f, type: 3}
+  - FlashSound: {fileID: 8300000, guid: 6b62db38b8af08b48b1b3fe0e34c002d, type: 3}
+  - SetTrapSound: {fileID: 8300000, guid: 018d3d4bd36035c4abd858e6538ab168, type: 3}
+  - playerHitSound: {fileID: 8300000, guid: 69bc545ee1b858449892ee66ae420ee4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

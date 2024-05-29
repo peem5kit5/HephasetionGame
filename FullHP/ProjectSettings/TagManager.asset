@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Vehicle
+  - Enemy
+  - Wall
+  - NPC
+  - NPC01
+  - DamageArea
+  - Cover
+  - Bullet
+  - Arrow
+  - NPCShadow
+  - Item
+  - Invisible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Theirself
+  - BlockPath
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WallBehind
+    uniqueID: 2022857157
+    locked: 0
+  - name: Ground
+    uniqueID: 2816838919
+    locked: 0
+  - name: Entity
+    uniqueID: 3349067983
+    locked: 0
+  - name: Dust
+    uniqueID: 2687228175
+    locked: 0
+  - name: Wall
+    uniqueID: 239409551
+    locked: 0
+  - name: Cannot
+    uniqueID: 1413140463
+    locked: 0
+  - name: CannotLess
+    uniqueID: 1636715199
+    locked: 0
+  - name: AddOn-Cliff
+    uniqueID: 341556745
+    locked: 0
+  - name: UI
+    uniqueID: 1325145013
+    locked: 0
+  - name: bullet
+    uniqueID: 278247943
+    locked: 0
+  - name: Symbol
+    uniqueID: 1264137565
+    locked: 0
+  - name: Layer
+    uniqueID: 438952539
+    locked: 0

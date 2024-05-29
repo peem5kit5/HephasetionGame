@@ -1,0 +1,2952 @@
+fileFormatVersion: 2
+guid: 3c181dc0782980249a4916f98a6f7570
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlumRework_1
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 5380
+        width: 1580
+        height: 2621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d804d0cc5692c47afd388969d80e36
+      internalID: -1282774929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_2
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 5380
+        width: 2030
+        height: 2400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43693b7af58c5f4a9646478f86e7cda
+      internalID: -616053311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_3
+      rect:
+        serializedVersion: 2
+        x: 6030
+        y: 5380
+        width: 1560
+        height: 2431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439989e44fc98e46a967f92f6377342
+      internalID: 241203276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_4
+      rect:
+        serializedVersion: 2
+        x: 8100
+        y: 5250
+        width: 1600
+        height: 2561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a289aa3bccd4c41955a39f3ef3d112
+      internalID: 1655653432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c89e7f597376d7488cbce31015748a4
+      internalID: 1905968428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817a708dd847714d9556456ee50c028
+      internalID: 804512525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670737e6bd19d604796d8fb75530e388
+      internalID: -693574613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_8
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 4900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad40e80cf7a3c44a95534853e38f998
+      internalID: 1361312211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_9
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e106f1f8391b8498fb6abaa30d3f6a
+      internalID: -1507518352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 4900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea8a322e4aeba6428519b4897b02d29
+      internalID: -960933350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_11
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429a898fb9375fb46a7a8931de209c88
+      internalID: -593348212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_12
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77202571f6145546b2becade6d749b7
+      internalID: 1977635282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_13
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e37d1b17ae5a4391cb1d99ccce152
+      internalID: -978812931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_14
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 4740
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e28a4f669aa534eb285a1eb0dd00eb
+      internalID: 289895882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_15
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 4740
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c9db18bfa6ba54cbc69cf008710ec0
+      internalID: -713797572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_16
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 4741
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82689e1fcd6feff4880cd729467a657e
+      internalID: 846643384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4420
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f22e9304aa4f4bb8e6be875609508
+      internalID: -570282314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4420
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7722eafeef578438ffbd9595b43df7
+      internalID: -1549333246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4420
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ca357e9ae8e954fa5972a04c341825
+      internalID: 1293644418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_20
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 4420
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d3a78a654b30429309bdb1ba0fd38
+      internalID: 620840873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_21
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4420
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbbf22672d3a3548b01af513e646ddd
+      internalID: 1400989259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_22
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 4420
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e98d86551c65488946502e889d2a1
+      internalID: -1866596557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_23
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4420
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbe13ec98daf9347b3d6c85ff853c23
+      internalID: -624967113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_24
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4420
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58de0c64b302484bb3e7fee0a24c793
+      internalID: 339299616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_25
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4420
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89458aa71f094148aacce7fb1d15d7d
+      internalID: -814576181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_26
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 4259
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141b5aeccb44b640b38b3f42e06c09d
+      internalID: 189133027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_27
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 4260
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412f73d2973d00b489368dcfadb3f4a0
+      internalID: -712225001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_28
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 4260
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80b11072d7bd874d83a65787ef75932
+      internalID: 376868461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_29
+      rect:
+        serializedVersion: 2
+        x: 8700
+        y: 3940
+        width: 361
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1493c44789deb7949af576d6fd9131fd
+      internalID: -1641399353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_30
+      rect:
+        serializedVersion: 2
+        x: 9760
+        y: 3940
+        width: 480
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c12f3929dad8674b900780c0a261b98
+      internalID: -420068941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3940
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854cbb1ba91b16e4b8979786f54eb05d
+      internalID: -617185310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3940
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4445ec8b1f30ba4aa138fa861846316
+      internalID: 274109685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3940
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6d8167d7da7c74b916ce14b5f20d2c
+      internalID: -764346518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_34
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3940
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cef7fafb45131488c4eac69d93280e
+      internalID: -1742244302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_35
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3940
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da54680b156ef2242abd70d28258aeb0
+      internalID: 700970234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_36
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3940
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a804e2ff02fb741a86fafa67013602
+      internalID: -406585289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_37
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3940
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358617e82d15464ea0d69542a5a8d32
+      internalID: -108343128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_38
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3940
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d16128e808698948989830e05adfb8a
+      internalID: 1719321048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_39
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3940
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7d5531cac03d48821f4c168ad9073
+      internalID: -1302461577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_40
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3780
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f865533be0a4eb47adb226e75854bb6
+      internalID: 1015092073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_41
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 3780
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec2352e27660234fb3fa736c45c0674
+      internalID: -734922036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_42
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 3780
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c09198599d0982409c2348d7f208d1b
+      internalID: -1780868875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_43
+      rect:
+        serializedVersion: 2
+        x: 9170
+        y: 3940
+        width: 370
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f9162e39c47540a39744aea685103
+      internalID: 1484085690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3460
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce287076b10d34584e73fe2c5149da
+      internalID: 1741207772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_45
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3460
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25511033eb16a34d935f5b20773ec59
+      internalID: -2074733690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_46
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3460
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da51d162ffe294aadeca2191403595
+      internalID: 1521272874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_47
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3460
+        width: 321
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b472ade0d6614cba48660c80beb63
+      internalID: 1917853867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_48
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3460
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e109a9add0c92d4cb6ddbbaa55899f3
+      internalID: -543247354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_49
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3460
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2ab2d8f8999f74fb0dd2c5e22c8645
+      internalID: 387014141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_50
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3460
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803f80e7c56b5bb4e871ec14f4b372c1
+      internalID: -174734227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_51
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3460
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d89f0f173fd6e4eaedad1849baf631
+      internalID: -1131615004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_52
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3460
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93f7089149b6f949bee7b0b08f5f1ee
+      internalID: 1672734711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_53
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3301
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a04ac5b7e43344cb4988d69c5d0af1
+      internalID: -223293473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_54
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 3301
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b33ebb71cc5bf640870e6436226b052
+      internalID: 1480734373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_55
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 3301
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd4ae4786f1365468eabb9f9483ece6
+      internalID: 1689164512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_56
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 3140
+        width: 680
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f33da35bde4e94dad69687bc8fb8ea
+      internalID: 482084000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_57
+      rect:
+        serializedVersion: 2
+        x: 9260
+        y: 3140
+        width: 681
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8ed836b731164895553f9c2a1f5c2
+      internalID: 809697407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_58
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2500
+        width: 180
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935f6ca4eb337ec4783618fe9a47eaea
+      internalID: 2136778641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_59
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2980
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46348c45b1380c4e8e406852853d7bb
+      internalID: -122403698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_60
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2980
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385610210cede642b505670ced8d270
+      internalID: 1249557473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_61
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2980
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4835662add70645ba36b4b20abe39c
+      internalID: 1510878939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_62
+      rect:
+        serializedVersion: 2
+        x: 10090
+        y: 3140
+        width: 310
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c5028ba7edc54eaa88d3b4f2e945b
+      internalID: 6988347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2540
+        width: 480
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c96c07086aa2747a2ee87b3330783c
+      internalID: 168429967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_64
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2540
+        width: 1920
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12442bd87ecf32428b7ffc1d1d54e8c
+      internalID: -932990498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_65
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2500
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fc3c9c8db891549818a5b9a77f3cdb
+      internalID: -1910306679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_66
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2500
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a7c1969d6006a49898409c3f82d754
+      internalID: 983811206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_67
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2500
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965c27a8568f2ce4baf11d6f82cf1875
+      internalID: -1312718537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_68
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 2500
+        width: 680
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e720637e475b8cc4cae286dd85080fe9
+      internalID: 632116694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_69
+      rect:
+        serializedVersion: 2
+        x: 9780
+        y: 1860
+        width: 620
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb41dfe54555bf48a738511978f3864
+      internalID: 1391528383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2020
+        width: 321
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bf3bd898a04ed44848181bca27ebe3
+      internalID: -330430225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_71
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa00f9a8f855e45938bc4d41720535
+      internalID: 786912693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_72
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f4a7d1220f7a4faf5fb6c8ca0f1ad
+      internalID: -1771995260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_73
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04fc89e68a02374d8bead4aa2bdce6a
+      internalID: -95645325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_74
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c63aeb5f6dc7941bf709be8e57263e
+      internalID: -1048706900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_75
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e02d68bc7d5ff4faf8adda80f82df3
+      internalID: 372550680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_76
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fefe8b4aff9e547868c047a234e967
+      internalID: 1365399985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_77
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdec9cc015330846a420c4610846394
+      internalID: -1289243035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_78
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d709e370a716478861bb7e36d9f1d
+      internalID: -748055946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_79
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed445fc83f7be2d42bde2c8f3201b24c
+      internalID: 780723844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_80
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2020
+        width: 321
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2cc4150fe4ad841a5fcecfe1cbc4b6
+      internalID: 1827638073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_81
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2020
+        width: 321
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bc9e5f4226fbb4a814dfbee5309434
+      internalID: 1970869318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_82
+      rect:
+        serializedVersion: 2
+        x: 6078
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c758d852b15dc4ab7b1f6325e3edd1
+      internalID: 1586187062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_83
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bef192e36c12d641aab6c5439049bfd
+      internalID: 854012946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_84
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2020
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7955eab7c05de524d99a4d61242df3bb
+      internalID: 1484648940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_85
+      rect:
+        serializedVersion: 2
+        x: 8560
+        y: 1860
+        width: 320
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe04ee45197f9bc43888dabd8919ee3f
+      internalID: 1573423725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_86
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1900
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f351ff75c5c0f6479e17dfdefb96762
+      internalID: -184835779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_87
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1900
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8985265cab551d84c97e491cd3eeac87
+      internalID: 1515869171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_88
+      rect:
+        serializedVersion: 2
+        x: 9170
+        y: 1860
+        width: 380
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b941430bc3b68a47a0cc24cb4e7216a
+      internalID: -1608981584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd9958e49a049b43b3cdc5a5bf471b3
+      internalID: -1672605038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396a6659c9cd0a4fb6790c1c47d929a
+      internalID: -2138877905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_91
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a781c960ea994ea49ca92aa4d9433
+      internalID: 2067469627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_92
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1700
+        width: 320
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d5081f8c83384ea6d3a4a7ae83028
+      internalID: -807387005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_93
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1700
+        width: 321
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66cb14b7e07a5c408ddda7bf96b75fb
+      internalID: 1723900748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_94
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f165a9e713798ec478ec5b0949022e89
+      internalID: -541882099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_95
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e754287ff836ff141911817532ed4246
+      internalID: 94928599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_96
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f202455f45b34489c8d08a2399377e
+      internalID: -213025305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_97
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525247855ee5054ca8abeca686e3651
+      internalID: 2115410675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_98
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967aba6b10c511747ba49319920c8982
+      internalID: -880523906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_99
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee5c23c59de6e47bfdd61bfe04e0ab
+      internalID: 1739459219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_100
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b5f71bd31731d47b6ba97113c00bfd
+      internalID: -1550915663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_101
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbbb40e9ef88504ab3cd25f8fd4c926
+      internalID: 647687710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_102
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3894c4d4bce94f4abd2485d2b3a01fb
+      internalID: -532825322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_103
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1540
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940edc6eaa57cea4ebec85a03a7a4343
+      internalID: -391422358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_104
+      rect:
+        serializedVersion: 2
+        x: 9760
+        y: 1220
+        width: 480
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f913385830727cb4b8d500efe60f649a
+      internalID: 986892785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1060
+        width: 321
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a957aeaddb1a7548aadd5d38526fa1c
+      internalID: 419515232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_106
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1060
+        width: 320
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a63a79d45949748bdd39782e508830
+      internalID: 418359179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_107
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1380
+        width: 320
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a7c98a8e1bdf48aeeee75b06ed6a1
+      internalID: -1320798544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_108
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1380
+        width: 321
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8798e7e509c2e439300c74904ce6a0
+      internalID: -972723593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_109
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1060
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc74e72ad449941b34d2b6803faab4
+      internalID: 41708834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_110
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1060
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aa96dcb0a234b49b021691317475b5
+      internalID: -1058250902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_111
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1060
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bac15f8aa60e24097c56e85c0c8c34
+      internalID: -1903708468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_112
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 1220
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562059915e8062742a8da9a94fde4fe1
+      internalID: -1609999574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_113
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 1260
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d08a293ba2df554d88c2e2f3ebb6787
+      internalID: 620422030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_114
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1260
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc85b993abfe748989c1a56df6205a
+      internalID: -2142620923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_115
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1260
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26d96a3babbc44fbf4529feffa5c97
+      internalID: -1950948639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_116
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 1260
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5268aa1854d5c4ea05333b26feca90
+      internalID: -1036697004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_117
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 1260
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3b56aad4e579644a3220cbec52d6cc
+      internalID: -520842014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_118
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1260
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8813e9e75ddcdba46a6df1f52ef344a9
+      internalID: -172554159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_119
+      rect:
+        serializedVersion: 2
+        x: 8560
+        y: 1220
+        width: 320
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3abbf13e46fade4f883d6929a3b72a8
+      internalID: -1352978894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_120
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1250
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e20e1bd155249147a170f325020ebd9
+      internalID: 1610796159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_121
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1250
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e293bd42009e344bad92f70ca31dca
+      internalID: 795826265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1060
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcbffffec82ff746969b2eda5a1ec3e
+      internalID: 160114865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_123
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 904
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624d49dc727732046ab8d8417268b57f
+      internalID: -1049223600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_124
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 900
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac0d1bf5dd70a4fba6dede1b8b1d8b
+      internalID: -845934431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_125
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 580
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d53535bf3fe54ca4d794d9a19185a
+      internalID: -700562729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_126
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 580
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b09279fff4f13544a1c24bbab7533be
+      internalID: 632073156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_127
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 580
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d7eb3e49d5336458a8a9dafaed8294
+      internalID: -105185741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlumRework_128
+      rect:
+        serializedVersion: 2
+        x: 9760
+        y: 420
+        width: 480
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452db4f2ccb7274eacdb1e2671d7782
+      internalID: 1964110184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SlumRework_104: 986892785
+      SlumRework_41: -734922036
+      SlumRework_117: -520842014
+      SlumRework_7: -693574613
+      SlumRework_94: -541882099
+      SlumRework_96: -213025305
+      SlumRework_12: 1977635282
+      SlumRework_40: 1015092073
+      SlumRework_93: 1723900748
+      SlumRework_53: -223293473
+      SlumRework_20: 620840873
+      SlumRework_69: 1391528383
+      SlumRework_116: -1036697004
+      SlumRework_13: -978812931
+      SlumRework_127: -105185741
+      SlumRework_107: -1320798544
+      SlumRework_66: 983811206
+      SlumRework_48: -543247354
+      SlumRework_25: -814576181
+      SlumRework_51: -1131615004
+      SlumRework_4: 1655653432
+      SlumRework_62: 6988347
+      SlumRework_75: 372550680
+      SlumRework_92: -807387005
+      SlumRework_63: 168429967
+      SlumRework_86: -184835779
+      SlumRework_19: 1293644418
+      SlumRework_21: 1400989259
+      SlumRework_95: 94928599
+      SlumRework_110: -1058250902
+      SlumRework_3: 241203276
+      SlumRework_114: -2142620923
+      SlumRework_60: 1249557473
+      SlumRework_24: 339299616
+      SlumRework_81: 1970869318
+      SlumRework_119: -1352978894
+      SlumRework_39: -1302461577
+      SlumRework_79: 780723844
+      SlumRework_88: -1608981584
+      SlumRework_100: -1550915663
+      SlumRework_72: -1771995260
+      SlumRework_38: 1719321048
+      SlumRework_27: -712225001
+      SlumRework_61: 1510878939
+      SlumRework_45: -2074733690
+      SlumRework_47: 1917853867
+      SlumRework_125: -700562729
+      SlumRework_120: 1610796159
+      SlumRework_58: 2136778641
+      SlumRework_83: 854012946
+      SlumRework_73: -95645325
+      SlumRework_29: -1641399353
+      SlumRework_30: -420068941
+      SlumRework_37: -108343128
+      SlumRework_126: 632073156
+      SlumRework_103: -391422358
+      SlumRework_76: 1365399985
+      SlumRework_85: 1573423725
+      SlumRework_6: 804512525
+      SlumRework_74: -1048706900
+      SlumRework_23: -624967113
+      SlumRework_36: -406585289
+      SlumRework_33: -764346518
+      SlumRework_115: -1950948639
+      SlumRework_80: 1827638073
+      SlumRework_78: -748055946
+      SlumRework_112: -1609999574
+      SlumRework_32: 274109685
+      SlumRework_54: 1480734373
+      SlumRework_90: -2138877905
+      SlumRework_18: -1549333246
+      SlumRework_108: -972723593
+      SlumRework_105: 419515232
+      SlumRework_50: -174734227
+      SlumRework_2: -616053311
+      SlumRework_0: -1727818042
+      SlumRework_59: -122403698
+      SlumRework_118: -172554159
+      SlumRework_65: -1910306679
+      SlumRework_8: 1361312211
+      SlumRework_15: -713797572
+      SlumRework_101: 647687710
+      SlumRework_77: -1289243035
+      SlumRework_22: -1866596557
+      SlumRework_49: 387014141
+      SlumRework_84: 1484648940
+      SlumRework_10: -960933350
+      SlumRework_26: 189133027
+      SlumRework_121: 795826265
+      SlumRework_42: -1780868875
+      SlumRework_64: -932990498
+      SlumRework_98: -880523906
+      SlumRework_46: 1521272874
+      SlumRework_91: 2067469627
+      SlumRework_44: 1741207772
+      SlumRework_1: -1282774929
+      SlumRework_106: 418359179
+      SlumRework_122: 160114865
+      SlumRework_109: 41708834
+      SlumRework_128: 1964110184
+      SlumRework_34: -1742244302
+      SlumRework_124: -845934431
+      SlumRework_43: 1484085690
+      SlumRework_28: 376868461
+      SlumRework_71: 786912693
+      SlumRework_9: -1507518352
+      SlumRework_87: 1515869171
+      SlumRework_70: -330430225
+      SlumRework_31: -617185310
+      SlumRework_123: -1049223600
+      SlumRework_111: -1903708468
+      SlumRework_97: 2115410675
+      SlumRework_11: -593348212
+      SlumRework_17: -570282314
+      SlumRework_113: 620422030
+      SlumRework_55: 1689164512
+      SlumRework_16: 846643384
+      SlumRework_35: 700970234
+      SlumRework_67: -1312718537
+      SlumRework_102: -532825322
+      SlumRework_89: -1672605038
+      SlumRework_52: 1672734711
+      SlumRework_82: 1586187062
+      SlumRework_14: 289895882
+      SlumRework_5: 1905968428
+      SlumRework_56: 482084000
+      SlumRework_68: 632116694
+      SlumRework_57: 809697407
+      SlumRework_99: 1739459219
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
